@@ -2,9 +2,9 @@
 
 <div align="center"><h1>局域网内使用安卓手机通过Clash Meta For Android共享魔法</h1></div>
 
-<h2>本教程的前提是两台设备需要在同一局域网下，其中一台已安装好Clash Meta For Android，并且已有机场订阅</h2>
+<h2>本教程的前提是所需设备需要在同一局域网下，其中一台已安装好Clash Meta For Android，并且已有机场订阅</h2>
 
-# 一、请再次确认两台设备在同一局域网下，一台手机已安装好Clash Meta For Android，并且已有机场订阅
+# 一、请再次确认所需设备在同一局域网下，一台手机已安装好Clash Meta For Android，并且已有机场订阅
 
 # 二、确认并记下有魔法的手机的IPv4地址
 记下下图所示IPv4地址，如192.168.1.221
