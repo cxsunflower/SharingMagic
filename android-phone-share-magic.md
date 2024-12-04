@@ -6,8 +6,9 @@
 
 # 一、请再次确认两台设备在同一局域网下，一台手机已安装好Clash Meta For Android，并且已有机场订阅
 
-# 二、确认并记下开启热点的手机的IPv4地址
+# 二、确认并记下有魔法的手机的IPv4地址
 记下下图所示IPv4地址，如192.168.1.221
+
 ![](/android-phone-share-magic/images/1.png)
 
 # 三、打开Clash Meta For Android进入设置-覆写
