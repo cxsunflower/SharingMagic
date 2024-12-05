@@ -1,8 +1,8 @@
 <a href="https://github.com/MetaCubeX/ClashMetaForAndroid"><div align=center><img src="/android-phone-share-magic/images/Clash Meta.png" width="200" height="200"></div></a>
 
-<div align="center"><h1>局域网内使用Windows通过Mihomo party共享魔法</h1></div>
+<div align="center"><h1>使用Windows开启热点通过Mihomo party共享魔法</h1></div>
 
-<h2>本教程的前提是两台设备需要在同一局域网下，其中Windows已安装好Mihomo party，并且已有机场订阅</h2>
+<h2>本教程的前提是Windows能开启热点，其中Windows已安装好Mihomo party，并且已有机场订阅</h2>
 
 # 一、请再次确认所需设备在同一局域网下，电脑已安装好Mihomo party，并且已有机场订阅
 
