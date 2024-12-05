@@ -4,7 +4,7 @@
 
 <h2>本教程的前提是Windows能开启热点，其中Windows已安装好Mihomo party，并且已有机场订阅</h2>
 
-# 一、请再次确认所需设备在同一局域网下，电脑已安装好Mihomo party，并且已有机场订阅
+# 一、请再次确认Windows能开启热点，电脑已安装好Mihomo party，并且已有机场订阅
 
 # 二、打开系统代理，打开虚拟网卡，并将左边的Tun模式堆栈改为gVisor
 ![](/windows-share-magic/images/1.png)
